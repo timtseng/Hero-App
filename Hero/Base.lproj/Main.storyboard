@@ -339,6 +339,7 @@
                         <viewLayoutGuide key="safeArea" id="3NE-5a-VZe"/>
                     </view>
                     <navigationItem key="navigationItem" title="MARVEL HERO" id="abK-qn-KJ4">
+                        <barButtonItem key="backBarButtonItem" title="HERO" id="lh9-CE-Zwv"/>
                         <barButtonItem key="rightBarButtonItem" image="paper-plane-7" id="4Nt-Bt-9OF"/>
                     </navigationItem>
                 </viewController>
